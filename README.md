@@ -1,18 +1,42 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Guilherme Silvestre! 👋</h1>
 
-<!--
-**Brgui22/Brgui22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brgui22/Aura/main/assets/logo2.png" alt="Projeto Aura" width="120"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas na ETEC <br>
+  Apaixonado por tecnologia, desenvolvimento web e projetos open-source.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🚀 Sobre mim
 
+- Atualmente cursando **Desenvolvimento de Sistemas** na ETEC
+- Integrante do projeto [Aura](https://github.com/Brgui22/Aura)
+- Sempre buscando aprender e compartilhar conhecimento
+
+### 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=222)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=fff)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=fff)
+
+---
+
+### 🌐 Minhas redes sociais
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff)](https://instagram.com/seu_usuario)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=fff)](https://facebook.com/seu_usuario)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=fff)](https://x.com/seu_usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu_usuario)
+
+---
+
+<div align="center">
+  <sub>“A tecnologia move o mundo.” – Steve Jobs</sub>
+</div>
