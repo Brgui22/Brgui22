@@ -14,7 +14,7 @@
 ### 🚀 Sobre mim
 
 - Atualmente cursando **Desenvolvimento de Sistemas** na ETEC
-- Integrante do projeto [Aura](https://github.com/Brgui22/Aura)
+- Integrante do projeto [Aura](https://brgui22.github.io/Aura/)
 - Sempre buscando aprender e compartilhar conhecimento
 
 ### 🛠️ Tecnologias
@@ -30,10 +30,9 @@
 
 ### 🌐 Minhas redes sociais
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff)](https://instagram.com/seu_usuario)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=fff)](https://facebook.com/seu_usuario)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=fff)](https://x.com/seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu_usuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/guilherme.sillvestre/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=fff)](https://x.com/brgui22)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilherme-silvestre-100681347/)
 
 ---
 
