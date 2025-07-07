@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=222)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=fff)
 
 ---
