@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme Silvestre! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brgui22/Aura/main/assets/logo2.png" alt="Projeto Aura" width="120"/>
+  <img src="https://raw.githubusercontent.com/Brgui22/Jogo/refs/heads/main/assets/aura.png" alt="Projeto Aura" width="120"/>
 </p>
 
 <p align="center">
